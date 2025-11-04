@@ -1,9 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-✨ I'm a passionate <strong> embedded systems developer </strong> living in Ankara, Turkey, working on enterprise applications and open-source software.
+✨I'm a passionate Electrical and Electronics Engineering student from Ankara, Turkey, specializing in <strong> embedded systems </strong>. My focus is on low-level programming (C/C++) and microcontroller development (STM32, Arduino)
 
 📫 How to reach me: viedrelx@gmail.com <br>
-🌱  I’m currently learning everything
+🌱 I'm currently exploring the world of STM32
 
 
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
